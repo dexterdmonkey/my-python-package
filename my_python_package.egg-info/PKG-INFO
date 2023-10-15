@@ -16,5 +16,3 @@ Classifier: Programming Language :: Python :: 3
 Classifier: Programming Language :: Python :: 3.4
 Classifier: Programming Language :: Python :: 3.5
 License-File: LICENSE
-Requires-Dist: mpi4py>=2.0
-Requires-Dist: numpy

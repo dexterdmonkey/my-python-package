@@ -9,9 +9,7 @@ setup(
     author_email='mail@mail',
     license='BSD 2-clause',
     packages=['example_package'],
-    install_requires=['mpi4py>=2.0',
-                      'numpy',                     
-                      ],
+    install_requires=[],
 
     classifiers=[
         'Development Status :: 1 - Planning',
